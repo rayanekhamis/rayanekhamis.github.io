@@ -1,30 +1,28 @@
-# Rayan E Khamis — ENSEEIHT Engineering Portfolio
+# Rayane KHAMIS — ENSEEIHT Engineering Portfolio
 
-A responsive, elegant portfolio starter built with HTML, CSS and vanilla JavaScript for GitHub Pages.
+A responsive portfolio website built with HTML, CSS and vanilla JavaScript, published with GitHub Pages.
 
-## Publish with GitHub Pages
+## Website
 
-1. Create a **public** repository named exactly `rayanekhamis.github.io`.
-2. Upload the contents of this folder to the repository root (not the containing folder).
-3. In GitHub, open **Settings → Pages**.
-4. Under **Build and deployment**, select **Deploy from a branch**.
-5. Choose branch **main** and folder **/(root)**, then Save.
-6. Wait for the deployment to finish. Your site should appear at https://rayanekhamis.github.io/.
+https://rayanekhamis.github.io/
 
-## Personalise before publishing
+## Update the portfolio
 
-Search the files for `YOUR_EMAIL@example.com` and replace it with your preferred public contact email, or remove the email links.
+- Edit `index.html` to update text, projects, activities and links.
+- Edit `style.css` to adjust the visual design.
+- Edit `script.js` to update the mobile navigation behaviour.
 
-Replace all instructional placeholder copy with accurate personal information. Do not claim projects, experience, language levels or activities you have not completed.
+## Personalise before submitting
 
-Add your documents:
+Replace all instructional placeholder text with accurate personal information. Do not claim projects, experience, language levels or activities that you have not completed.
+
+Add your documents at these paths when ready:
+
 - `assets/documents/CV-English.pdf`
 - `assets/documents/CV-French.pdf`
 
-Add project images under `assets/images/` and link to them from `index.html`. Add your elevator-pitch video or a link to it when ready.
+Add your 2–3 minute English elevator-pitch video or a link to it in the Career Development section. Complete the three role-model profiles and the three international mobility project ideas.
 
-## Files
+## Publish
 
-- `index.html` — page structure and content
-- `style.css` — responsive visual design
-- `script.js` — mobile navigation interaction
+GitHub Pages should use the `main` branch and the repository root (`/(root)`) under **Settings → Pages**.
