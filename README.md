@@ -11,17 +11,13 @@ https://rayanekhamis.github.io/
 - Edit `index.html` to update text, projects, activities and links.
 - Edit `style.css` to adjust the visual design.
 - Edit `script.js` to update the mobile navigation behaviour.
+- Replace `assets/documents/CV-English.pdf` and `assets/documents/CV-French.pdf` to update the downloadable CVs.
 
 ## Personalise before submitting
 
-Replace all instructional placeholder text with accurate personal information. Do not claim projects, experience, language levels or activities that you have not completed.
+Replace remaining instructional placeholder text with accurate personal information. Do not claim projects, experience or activities that you have not completed.
 
-Add your documents at these paths when ready:
-
-- `assets/documents/CV-English.pdf`
-- `assets/documents/CV-French.pdf`
-
-Add your 2–3 minute English elevator-pitch video or a link to it in the Career Development section. Complete the three role-model profiles and the three international mobility project ideas.
+The two one-page CVs are already included in `assets/documents/`. The English elevator-pitch video (2:48) still needs a public video-hosting URL before it can be embedded.
 
 ## Publish
 
