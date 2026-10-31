@@ -1,24 +1,27 @@
-# Rayane KHAMIS — ENSEEIHT Engineering Portfolio
+# Rayane KHAMIS — Engineering Portfolio
 
-A responsive portfolio website built with HTML, CSS and vanilla JavaScript, published with GitHub Pages.
+A responsive personal engineering portfolio built with HTML, CSS and vanilla JavaScript and published with GitHub Pages.
 
-## Website
+**Website:** https://rayanekhamis.github.io/
 
-https://rayanekhamis.github.io/
+## Portfolio sections
 
-## Update the portfolio
+- **Engineering:** academic background, technical toolkit and the CPGE TIPE project.
+- **International mobility:** languages, current international-study experience and prospective mobility ideas.
+- **Sustainability & engagement:** principles for responsible and socially useful engineering.
+- **Sport & activities:** interests and creative pursuits.
+- **Career development:** CVs, elevator pitch and engineering role models.
 
-- Edit `index.html` to update text, projects, activities and links.
-- Edit `style.css` to adjust the visual design.
-- Edit `script.js` to update the mobile navigation behaviour.
-- Replace `assets/documents/CV-English.pdf` and `assets/documents/CV-French.pdf` to update the downloadable CVs.
+## Repository structure
 
-## Personalise before submitting
+- `index.html` — page content and navigation
+- `style.css` — visual design and responsive layout
+- `script.js` — mobile navigation behaviour
+- `assets/documents/` — English and French CVs and the TIPE report
+- `assets/videos/elevator-pitch.mp4` — embedded English elevator-pitch video
 
-Replace remaining instructional placeholder text with accurate personal information. Do not claim projects, experience or activities that you have not completed.
+## Updating the site
 
-The two one-page CVs are already included in `assets/documents/`. The English elevator-pitch video (2:48) still needs a public video-hosting URL before it can be embedded.
+Edit the relevant source file, commit the changes to the `main` branch, and allow GitHub Pages to publish the update.
 
-## Publish
-
-GitHub Pages should use the `main` branch and the repository root (`/(root)`) under **Settings → Pages**.
+GitHub Pages is configured to publish from the repository root of the `main` branch.
